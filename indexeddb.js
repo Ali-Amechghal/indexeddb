@@ -20,11 +20,9 @@
 	}
 }(this, function(){
 
-
-
 	var root =  this ||  global;
 	var previous = root.indxdb;
-    var __indexedDBObject = root.indexedDB;
+        var __indexedDBObject = root.indexedDB;
 	
 	indxdb = {};
     indxdb.permissions = {
