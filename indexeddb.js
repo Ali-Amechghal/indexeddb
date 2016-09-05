@@ -86,6 +86,6 @@
 	indexedDB.setIndex=function(collectionObject, _indexColumn, constraintArray){
 
 	}
-
+        // return global api object
 	return indxdb;
 }));
